@@ -7,5 +7,4 @@ int main ()
 		printf ("nao tem nada que saber");
 		
 	
-	
 }
